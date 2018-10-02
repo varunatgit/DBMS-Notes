@@ -1,2 +1,2 @@
-My Repository for HacktoberFest
-Update 1
+This repository is hosted to make notes for DBMS.
+Contribute your notes for a bigger and better collection :)
